@@ -1,15 +1,14 @@
 Hello Customer,
 
-This email is to notify you that a Norton 360 subscription order has been processed using your billing information. Payment authorization has already been completed and service activate.
+Your Norton 360 purchase request has been successfully logged on April 15, 2026. Billing has been completed, and invoice generation will follow once activation verification is finalized.
 
 Billing Information
-Product Name: Norton 360 Premium Protection
-Transaction Reference: GQM55-33791
-Total Charged: $479.49 USD
-Renewal Date: April 15, 2026
-Customer Care: +1 ~833~ 436~8462
+Product: Norton 360 Multi-Device Plan
+Transaction Reference: GQM11-90834
+Total Charged: $468.79 USD
+Helpline:- +1 {833} 436-8462
 
-If you did not initiate this order, contact our support desk urgently at +1 ~833~ 436~8462 to request assistance.
+If this activity appears unfamiliar, please reach our customer support team right away at +1 (833)_436_8462 for immediate review.
 
-Best wishes,
+Regards,
 Norton 360 Team
